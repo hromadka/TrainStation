@@ -1,0 +1,11 @@
+C:\Users\thromadka\workspace\TrainStation\TrainStation\bin\Debug\TrainStation.exe.config
+C:\Users\thromadka\workspace\TrainStation\TrainStation\bin\Debug\TrainStation.exe
+C:\Users\thromadka\workspace\TrainStation\TrainStation\bin\Debug\TrainStation.pdb
+C:\Users\thromadka\workspace\TrainStation\TrainStation\obj\Debug\TrainStation.csprojResolveAssemblyReference.cache
+C:\Users\thromadka\workspace\TrainStation\TrainStation\obj\Debug\TrainStation.Form1.resources
+C:\Users\thromadka\workspace\TrainStation\TrainStation\obj\Debug\TrainStation.Properties.Resources.resources
+C:\Users\thromadka\workspace\TrainStation\TrainStation\obj\Debug\TrainStation.csproj.GenerateResource.Cache
+C:\Users\thromadka\workspace\TrainStation\TrainStation\obj\Debug\TrainStation.exe
+C:\Users\thromadka\workspace\TrainStation\TrainStation\obj\Debug\TrainStation.pdb
+C:\Users\thromadka\workspace\TrainStation\TrainStation\obj\Debug\TrainStation.Form2.resources
+C:\Users\thromadka\workspace\TrainStation\TrainStation\obj\Debug\TrainStation.Form3.resources
